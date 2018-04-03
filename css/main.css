@@ -6,7 +6,8 @@ h1
 {
 font-size: 20px;
 }
-li
+ul
 {
 color:#FFF;
+list-style-type: none;
 }
